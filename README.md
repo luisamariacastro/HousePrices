@@ -11,3 +11,4 @@ Los datos del proyecto vienen de [La competición Kaggle House prices](https://w
 ## Videos
 
 - [Video primera entrega](https://www.youtube.com/watch?v=n_-h3bIdMR8)
+- [Video segunda entrega](https://www.youtube.com/watch?v=c8ZbwlcUjh4)
